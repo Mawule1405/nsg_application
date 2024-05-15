@@ -11,7 +11,7 @@ fg_entry_color = '#fff'
 text_entry_color = '#000'
 border_entry_color='#000'
 
-entry_height =40
+entry_height =30
 border_entry_width = 1
 border_entry_radius = 0
 
@@ -19,12 +19,12 @@ border_entry_radius = 0
 fg_bouton_color = '#00008D'
 fg_bouton_hover_color = '#8b0000'
 
-width_bouton = 200
+width_bouton = 180
 height_bouton = 40
 
 #Définition des polices
 font_text_1 = ("Garamond", 20, 'bold')
-font_text_2 = ("Garamond", 15, 'bold')
+font_text_2 = ("Garamond", 12, 'bold')
 
 #Paramètre de validation
 champ_valide_color = "#000"

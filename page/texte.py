@@ -16,6 +16,12 @@ boite_de_dialogue_suppression_contenu = "Vous n'avez pas de produit sélectionn�
 bouton_apercu_facture ="Voir la facture"
 bouton_evaluer_facture = "Evaluer la facture"
 
+
+titre_formulaire  =  "Formulaire de production de facture"
+nom_client = "Nom du client: "
+numero_facture = "Numero de la facture: "
+objet_facture = "Objet: "
 nom_client_placeholder = "Nom du client :"
 numero_facture_placeholder = "Facture N°: XXXXXX"
 objet_facture_placeholder = "Objet de la facture: "
+
